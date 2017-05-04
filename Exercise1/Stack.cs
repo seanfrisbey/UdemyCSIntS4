@@ -21,7 +21,7 @@ namespace Exercise1
             stack.RemoveAt(stack.Count-1);
             return lastItem;
         }
-
+        
         public void Clear()
         {
             stack.Clear();
